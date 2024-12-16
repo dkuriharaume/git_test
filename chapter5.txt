@@ -2,3 +2,4 @@ Update this line from remote
 This line of text is added locally, replacing second line.
 
 These lines are added remotely.
+And this line is added after that on remote.
