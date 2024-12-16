@@ -1,4 +1,1 @@
-Update this line from remote
-This line of text is added locally, replacing second line.
-
-These lines are added remotely.
+Deleted all there is on local.
