@@ -1,2 +1,4 @@
 Update this line from remote
 Some other line is added on local
+
+These lines are added remotely.
