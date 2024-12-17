@@ -1,5 +1,1 @@
-And this line is added after that.
-This is the first draft
-This line of text is added way after it is approved.
-
-bug fixed.
+Entirely rewritten over by dkurihara3352
