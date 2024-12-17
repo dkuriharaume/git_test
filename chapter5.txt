@@ -1,3 +1,1 @@
-Deleted all there is on local.
-
-And this line is added after that on remote.
+clean slate
